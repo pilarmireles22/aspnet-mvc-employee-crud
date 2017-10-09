@@ -3,4 +3,4 @@ This is an example CRUD built with ASP.NET MVC + Entity Framework +jQuery + Boot
 
 # Demo:
 
-![Demo](/screenshot/screenshot.jpg?raw=true "Demo")
+![Demo](/screenshot/screenshot.PNG "Demo")
